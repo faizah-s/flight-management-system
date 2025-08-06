@@ -1,7 +1,7 @@
 # Flight Management System
 
 ## Project Overview  
-This project implements a Flight Management System database designed to manage key aspects of airline operations, including customers, airports, flights, seat availability, bookings, and payments.
+This project implements a Flight Management System database designed to manage key aspects of airline operations, including customers, airports, flights, seat availability, bookings, and payments. The database schema and queries are designed and tested using MySQL.
 
 ## Database Schema  
 The database consists of the following tables:  
